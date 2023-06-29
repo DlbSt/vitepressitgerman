@@ -2,16 +2,14 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "IT German",
-  description: "IT German vocabulary",
+  title: "IT German Vocabulary",
+  description: "IT German Vocabulary",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/it-german' },
-    ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'twitter', link: 'https://twitter.com/DaliborStys' }, 
+      { icon: 'github', link: 'https://github.com/DlbSt/vitepressitgerman' }
     ]
   }
 })
