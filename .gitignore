@@ -1,0 +1,14 @@
+node_modules/
+tmp/
+workspace/
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.data
+.vitepress/dist
+.vitepress/cache
+docs/.vitepress/dist
