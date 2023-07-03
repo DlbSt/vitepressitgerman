@@ -11,3 +11,4 @@ workspace/
 .data
 .vitepress/dist
 .vitepress/cache
+docs/.vitepress/dist
